@@ -1,0 +1,12 @@
+Github-----
+
+git init
+git add README.md
+git commit -m "first commit"     ----adds the commit
+git branch -M main               ----makes the main branch name as 'main'
+git remote add origin https://github.com/Pallavi1503/React.git
+git push -u origin main
+
+
+Git is a version control system that lets you manage and keep track of your source code history.
+GitHub is a cloud-based hosting service that lets you manage Git repositories. 
